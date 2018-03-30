@@ -24,7 +24,7 @@
 
 ![image](https://github.com/HighwayWu/Unity-001/raw/master/AngerBirds/图片4.png)
 
-![image](https://github.com/HighwayWu/Unity-001/raw/master/AngerBirds/图片5.png)
+![image](https://github.com/HighwayWu/Unity-001/raw/master/AngerBirds/图片6.png)
 
 
 PC版在PC文件夹下，安卓APK在AndroidAPK文件夹下。
