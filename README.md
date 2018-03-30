@@ -13,4 +13,10 @@
 2、PlayerPrefs：生成PC版应用时根据company、product name来保存数据在注册表内，所以删除_Data文件夹并不能清除保存的数据。
 3、分辨率：悲剧的我从头到尾使用free aspect，结果最后锚点啥的调了半天的分辨率。。切记一开始就调好分辨率/比。
 
+![image](http://github.com/HighwayWu/Unity-001/raw/master/AngerBirds/图片1.jpg)
+![image](http://github.com/HighwayWu/Unity-001/raw/master/AngerBirds/图片2.jpg)
+![image](http://github.com/HighwayWu/Unity-001/raw/master/AngerBirds/图片3.jpg)
+![image](http://github.com/HighwayWu/Unity-001/raw/master/AngerBirds/图片4.jpg)
+![image](http://github.com/HighwayWu/Unity-001/raw/master/AngerBirds/图片5.jpg)
+
 PC版在PC文件夹下，安卓APK在AndroidAPK文件夹下。
